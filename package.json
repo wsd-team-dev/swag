@@ -1,12 +1,12 @@
 {
-    "name": "@wallstreetdocs/swag",
-    "version": "0.6.2",
+    "name": "@wsd-team-dev/swag",
+    "version": "0.8.0",
     "author": "Elving Rodriguez <elving.pr@gmail.com>",
     "description": "Give your handlebars.js templates some swag son!",
     "main": "./index.js",
     "repository"     : {
         "type": "git",
-        "url" : "git+https://github.com/wallstreetdocs/swag.git"
+        "url" : "git+https://github.com/wsd-team-dev/swag.git"
     },
     "keywords": [
         "swag",
@@ -16,10 +16,10 @@
         "utilities"
     ],
     "publishConfig"  : {
-        "registry": "https://npm.pkg.github.com/@wallstreetdocs"
+        "registry": "https://npm.pkg.github.com/@wsd-team-dev"
     },
     "dependencies": {
-        "handlebars": "~4.7.7"
+        "handlebars": "4.7.8"
     },
     "devDependencies": {
         "coffee-script": "~1.6.3",
